@@ -1,4 +1,4 @@
-**Score-Keeper-app-Udacity-Nanodegree-Second-Android-Project**
+**Score Keeper app Udacity Nanodegree Second Android Project**
 
 This is the repo for \[Android Basics Nanodegree by Google course\].
 
